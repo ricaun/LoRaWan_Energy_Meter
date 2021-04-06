@@ -1,13 +1,13 @@
 # LoRaWan_Energy_Meter
 
-Project to read the energy meter using the [Unidirectional Asynchronous Serial Output (PIMA)](4) and send the data using LoRaWAN to [TTN](5).
+Project to read the energy meter using the [Unidirectional Asynchronous Serial Output (PIMA)][4] and send the data using LoRaWAN to [TTN][5].
 
 ## Librays
 
-* [LoRa](1)
-* [LoRaWanPacket](2)
-* [ArduinoUniqueID](3)
-* [Unidirectional Asynchronous Serial Output (PIMA)](4)
+* [LoRa][1]
+* [LoRaWanPacket][2]
+* [ArduinoUniqueID][3]
+* [Unidirectional Asynchronous Serial Output (PIMA)][4]
 
 ## License
 

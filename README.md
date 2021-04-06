@@ -9,7 +9,6 @@ Project to read the energy meter using the [Unidirectional Asynchronous Serial O
 * [ArduinoUniqueID](3)
 * [Unidirectional Asynchronous Serial Output (PIMA)](4)
 
-
 ## License
 
 This library is [licensed](LICENSE) under the [MIT Licence](https://en.wikipedia.org/wiki/MIT_License).
